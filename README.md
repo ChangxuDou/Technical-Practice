@@ -1,1 +1,1 @@
-# SQL--learning
+# SQL and Python
