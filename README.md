@@ -1,7 +1,7 @@
 # Technical Practice
 
 This section contains my hands-on practice in programming, databases, and data analysis.
-
+## Description
 The projects and exercises here are part of my ongoing transition from IT product and project work toward more technical roles. They focus on building practical skills in Python, SQL, data processing, and software development fundamentals through small projects, exercises, and experiments.
 
 Current focus areas include:
