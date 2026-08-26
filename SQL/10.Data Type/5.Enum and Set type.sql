@@ -1,3 +1,0 @@
--- ENUM('small','medium','large')
--- SET(...)
--- Tipps:thay are not good to use.

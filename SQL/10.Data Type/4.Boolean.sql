@@ -1,3 +1,0 @@
--- BOOL
--- BOOLEAN
--- Tipps: actually a synonym for tinyint
