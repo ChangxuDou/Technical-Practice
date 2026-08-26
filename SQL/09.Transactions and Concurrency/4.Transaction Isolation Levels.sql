@@ -1,0 +1,4 @@
+SHOW VARIABLES LIKE 'transaction_isolation';
+SET TRANSACTION ISOLATION LEVEL SERIALIZABLE; -- only for next Transaction
+-- SET SESSION TRANSACTION ISOLATION LEVEL SERIALIZABLE;---for this Connection/Session
+-- SET GLOBAL TRANSACTION ISOLATION LEVEL SERIALIZABLE;----for all Connection/Seesion in the future
