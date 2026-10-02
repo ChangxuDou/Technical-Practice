@@ -1,1 +1,0 @@
-{% extends 'base.html' %}{% block content %}<section class="section form-section"><div class="eyebrow">{{ eyebrow }}</div><h1 class="page-title">{{ title }}</h1>{% if intro %}<p class="muted">{{ intro }}</p>{% endif %}<form method="post" class="panel form-stack">{% csrf_token %}{{ form.as_p }}<button class="btn">{{ submit }}</button></form></section>{% endblock %}
