@@ -42,8 +42,6 @@ Vidly is a portfolio project modelling a **physical movie-disc rental store**. P
 
 These are shared accounts, so activity may be visible to other visitors. Please use fictional information when exploring the application.
 
-**[Open the Live Demo](https://ryandou.pythonanywhere.com/) · [Read the Project Q&A](https://ryandou.pythonanywhere.com/qa/)**
-
 ## Explore This Repository
 
 - **[Python](./Python/)** — Django application work, Python exercises and data-processing practice.
