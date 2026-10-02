@@ -3,7 +3,9 @@
 A personal learning project by **Ryandou**, a product manager connecting Python/Django, database modelling and product workflows. The first working platform was subsequently refined with AI.
 
 Vidly demonstrates a physical movie-disc rental store, not a streaming service. All payments and supplier purchases are simulated.
-https://github.com/ChangxuDou/Technical-Practice/tree/main/Python/11.Building%20Web%20Applications%20with%20Django
+
+[▶ Live Demo](https://ryandou.pythonanywhere.com/) · [⬇ Download v3](https://github.com/ChangxuDou/Technical-Practice/tree/main/Python/11.Building%20Web%20Applications%20with%20Django) · [Project Q&A](https://ryandou.pythonanywhere.com/qa/)
+
 ## Start locally
 
 Requires Python 3.10 or newer. Extract the ZIP, open a terminal in its folder, and run:
